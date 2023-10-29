@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  background-color: cadetblue;
+}
+.opo {
+  box-shadow:0 5px 10px black;
+  border: 1px solid black;
+  text-align: center;
+  margin-top: 150px;
+  border-radius: 10%;
+  background-color: azure;
+  padding: 9px;
+}
+img {
+  border-radius: 50%;
+}
